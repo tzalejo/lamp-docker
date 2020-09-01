@@ -1,7 +1,7 @@
 FROM ubuntu
 
 LABEL title="apache-lamp" \
-  author="José Juan Sánchez"
+  author="Alejandro Valenzuela"
 
 ENV DEBIAN_FRONTEND=noninteractive 
 ENV TZ=Europe/Madrid
